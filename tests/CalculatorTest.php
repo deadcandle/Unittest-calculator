@@ -15,7 +15,7 @@ class CalculatorTest extends TestCase {
 
 	// Methods moeten starten met de naam test....
 	public function testAdd() {
-		
+
 		// Of zonder use: $calculator = new \VoorbeeldUnittest\Calculator; 
 		$calculator = new Calculator;
 
